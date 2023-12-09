@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Search-filter-Pet-s-shop-with-OAuth0/static/css/main.5d758b49.css",
+    "main.js": "/Search-filter-Pet-s-shop-with-OAuth0/static/js/main.54bf1a94.js",
+    "static/js/787.5f91efd6.chunk.js": "/Search-filter-Pet-s-shop-with-OAuth0/static/js/787.5f91efd6.chunk.js",
+    "index.html": "/Search-filter-Pet-s-shop-with-OAuth0/index.html",
+    "main.5d758b49.css.map": "/Search-filter-Pet-s-shop-with-OAuth0/static/css/main.5d758b49.css.map",
+    "main.54bf1a94.js.map": "/Search-filter-Pet-s-shop-with-OAuth0/static/js/main.54bf1a94.js.map",
+    "787.5f91efd6.chunk.js.map": "/Search-filter-Pet-s-shop-with-OAuth0/static/js/787.5f91efd6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d758b49.css",
+    "static/js/main.54bf1a94.js"
+  ]
+}
