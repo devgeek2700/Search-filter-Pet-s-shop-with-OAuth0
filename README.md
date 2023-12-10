@@ -53,6 +53,11 @@ To enable user registration and authentication, you'll need to set up an OAuth0 
 2. Create a new application and obtain the client ID and client secret.
 3. Configure the allowed callback URLs and other necessary settings in your OAuth0 dashboard.
 4. Update the OAuth0 credentials in the project configuration.
+5. 
+## Hosted Website Link
+
+https://comforting-begonia-3c6a9a.netlify.app
+
 
 ## Contributing
 
