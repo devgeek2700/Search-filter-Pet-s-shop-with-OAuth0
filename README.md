@@ -62,7 +62,27 @@ https://comforting-begonia-3c6a9a.netlify.app
 
 ## Main page
 
-![App Screenshot](https://github.com/devgeek2700/Google-Keep-Clone-using-ReactJs/blob/master/public/Output/output1.png?raw=true)
+![App Screenshot](https://github.com/devgeek2700/Search-filter-Pet-s-shop-with-OAuth0/blob/master/Output/1.png?raw=true)
+
+## Main page
+
+![App Screenshot](https://github.com/devgeek2700/Search-filter-Pet-s-shop-with-OAuth0/blob/master/Output/2.png?raw=true)
+
+## Main page
+
+![App Screenshot](https://github.com/devgeek2700/Search-filter-Pet-s-shop-with-OAuth0/blob/master/Output/3.png?raw=true)
+
+## Main page
+
+![App Screenshot](https://github.com/devgeek2700/Search-filter-Pet-s-shop-with-OAuth0/blob/master/Output/4.png?raw=true)
+
+## Main page
+
+![App Screenshot](https://raw.githubusercontent.com/devgeek2700/Search-filter-Pet-s-shop-with-OAuth0/master/Output/5.webp)
+
+## Main page
+
+![App Screenshot](https://github.com/devgeek2700/Search-filter-Pet-s-shop-with-OAuth0/blob/master/Output/6.png?raw=true)
 
 ## Main page
 
@@ -70,20 +90,12 @@ https://comforting-begonia-3c6a9a.netlify.app
 
 ## Main page
 
-![App Screenshot](https://github.com/devgeek2700/Google-Keep-Clone-using-ReactJs/blob/master/public/Output/output1.png?raw=true)
+![App Screenshot](https://github.com/devgeek2700/Search-filter-Pet-s-shop-with-OAuth0/blob/master/Output/7.png?raw=true
+)
 
 ## Main page
 
-![App Screenshot](https://github.com/devgeek2700/Google-Keep-Clone-using-ReactJs/blob/master/public/Output/output1.png?raw=true)
-
-## Main page
-
-![App Screenshot](https://github.com/devgeek2700/Google-Keep-Clone-using-ReactJs/blob/master/public/Output/output1.png?raw=true)
-
-## Main page
-
-![App Screenshot](https://github.com/devgeek2700/Google-Keep-Clone-using-ReactJs/blob/master/public/Output/output1.png?raw=true)
-
+![App Screenshot](https://github.com/devgeek2700/Search-filter-Pet-s-shop-with-OAuth0/blob/master/Output/8.png?raw=true)
 
 
 ## Contributing
