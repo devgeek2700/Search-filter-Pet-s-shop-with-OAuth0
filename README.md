@@ -58,6 +58,33 @@ To enable user registration and authentication, you'll need to set up an OAuth0 
 
 https://comforting-begonia-3c6a9a.netlify.app
 
+## Screenshot
+
+## Main page
+
+![App Screenshot](https://github.com/devgeek2700/Google-Keep-Clone-using-ReactJs/blob/master/public/Output/output1.png?raw=true)
+
+## Main page
+
+![App Screenshot](https://github.com/devgeek2700/Google-Keep-Clone-using-ReactJs/blob/master/public/Output/output1.png?raw=true)
+
+## Main page
+
+![App Screenshot](https://github.com/devgeek2700/Google-Keep-Clone-using-ReactJs/blob/master/public/Output/output1.png?raw=true)
+
+## Main page
+
+![App Screenshot](https://github.com/devgeek2700/Google-Keep-Clone-using-ReactJs/blob/master/public/Output/output1.png?raw=true)
+
+## Main page
+
+![App Screenshot](https://github.com/devgeek2700/Google-Keep-Clone-using-ReactJs/blob/master/public/Output/output1.png?raw=true)
+
+## Main page
+
+![App Screenshot](https://github.com/devgeek2700/Google-Keep-Clone-using-ReactJs/blob/master/public/Output/output1.png?raw=true)
+
+
 
 ## Contributing
 
