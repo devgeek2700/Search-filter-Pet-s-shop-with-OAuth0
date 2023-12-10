@@ -72,25 +72,24 @@ https://comforting-begonia-3c6a9a.netlify.app
 
 ![App Screenshot](https://github.com/devgeek2700/Search-filter-Pet-s-shop-with-OAuth0/blob/master/Output/3.png?raw=true)
 
-## Main page
+## Form page
 
 ![App Screenshot](https://github.com/devgeek2700/Search-filter-Pet-s-shop-with-OAuth0/blob/master/Output/4.png?raw=true)
 
-## Main page
+## Social Media Login
 
 ![App Screenshot](https://raw.githubusercontent.com/devgeek2700/Search-filter-Pet-s-shop-with-OAuth0/master/Output/5.webp)
 
-## Main page
+## Authenticate  page
 
 ![App Screenshot](https://github.com/devgeek2700/Search-filter-Pet-s-shop-with-OAuth0/blob/master/Output/6.png?raw=true)
 
 
-## Main page
+## Detail page
 
-![App Screenshot](https://github.com/devgeek2700/Search-filter-Pet-s-shop-with-OAuth0/blob/master/Output/7.png?raw=true
-)
+![App Screenshot](https://github.com/devgeek2700/Search-filter-Pet-s-shop-with-OAuth0/blob/master/Output/7.png?raw=true)
 
-## Main page
+##  Pop Chat Box
 
 ![App Screenshot](https://github.com/devgeek2700/Search-filter-Pet-s-shop-with-OAuth0/blob/master/Output/8.png?raw=true)
 
